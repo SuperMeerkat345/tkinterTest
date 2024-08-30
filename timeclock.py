@@ -14,6 +14,7 @@ from tkinter import ttk
 import datetime
 import json
 import time
+import requests
 from queue import Queue
 
 key_queue = Queue()
